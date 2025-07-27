@@ -1,6 +1,6 @@
-def add(a,b):
+def add(a,b,c):
     """Returns the sum of a and b."""
-    return a + b   
+    return a + b + c  
 def subtract(a,b):
     """Returns the difference of a and b."""
     return a - b  
