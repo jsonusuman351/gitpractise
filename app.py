@@ -1,9 +1,9 @@
 def add(a,b):
     """Returns the sum of a and b."""
     return a + b
-def subtract(a,b):
+def subtract(a,b,c):
     """Returns the difference of a and b."""
-    return a - b 
+    return a - b -c
 def multiply(a, b):
     """Returns the product of a and b."""
     return a * b  
